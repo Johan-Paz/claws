@@ -1,0 +1,11 @@
+espada:
+  cualidades:
+  - afilada
+  - dañosa
+  cualidades:
+  - kosa
+  daño: 1d3
+
+bloque1:
+  si a es pequeño:
+    "No veas lo pequeño que es." 
